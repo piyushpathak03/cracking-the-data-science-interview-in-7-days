@@ -31,7 +31,7 @@ Here are the sections:
 
 This section contains portfolio of data science projects completed by me for academic, self learning, and hobby purposes.
 
-For a more visually pleasant experience for browsing the portfolio, check out [jameskle.com/data-portfolio](https://jameskle.com/data-portfolio)
+For a more visually pleasant experience for browsing the portfolio, check out [piyush pathak](https://anirudhrapathak3.wixsite.com/piyush)
 
 
 - ### Computer Vision
