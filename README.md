@@ -51,7 +51,7 @@ For a more visually pleasant experience for browsing the portfolio, check out [p
 
 This section contains portfolio of data journalism articles completed by me for freelance clients and self-learning purposes.
 
-For a more visually pleasant experience for browsing the portfolio, check out [jameskle.com/data-journalism](https://jameskle.com/data-journalism)
+For a more visually pleasant experience for browsing the portfolio, check out [**Piyush Pathak**](https://anirudhrapathak3.wixsite.com/piyush)
 
 - ### Statistics
 
