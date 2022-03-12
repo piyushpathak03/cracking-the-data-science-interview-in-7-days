@@ -1,6 +1,6 @@
 # cracking-the-data-science-interview-in-7-days
 
-Here are the sections:
+Here are the sections for reference:
 
 * [Data Science Cheatsheets](#data-science-cheatsheets)
 * [Data Science Case Studies](#data-science-case-studies)
