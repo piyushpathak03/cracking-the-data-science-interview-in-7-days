@@ -7,6 +7,7 @@ Here are the sections for reference:
 * [Data Science Portfolio](#data-science-portfolio)
 * [Data Journalism Portfolio](#data-journalism-portfolio)
 * [Downloadable Cheatsheets](#downloadable-cheatsheets)
+* [Data Science Interview Cheat Sheet](https://www.interviewbit.com/data-science-interview-questions/)
 
 ## Data Science Cheatsheets
 
